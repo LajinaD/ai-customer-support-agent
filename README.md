@@ -20,6 +20,9 @@ An **agentic AI customer support system** for an e-commerce store. Instead of a 
 |---|---|
 | ![Welcome](images/chat-welcome.png) | ![Refund policy](images/chat-refund-policy.png) |
 
+| Human Escalation | Answer from tool details |
+|---|---|
+| ![Human Escalation](images/chat-human-escalation.png) | ![Tool Calling](images/chat-shipping-tracking.png) |
 
 ---
 

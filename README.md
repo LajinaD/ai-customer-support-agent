@@ -20,7 +20,6 @@ An **agentic AI customer support system** for an e-commerce store. Instead of a 
 |---|---|
 | ![Welcome](images/chat-welcome.png) | ![Refund policy](images/chat-refund-policy.png) |
 
-> Put your two screenshots in an `images/` folder and rename them to match the paths above.
 
 ---
 
